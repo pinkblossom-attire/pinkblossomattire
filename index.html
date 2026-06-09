@@ -268,7 +268,7 @@ function renderProducts(products){
     return;
   }
   document.getElementById('product-grid').innerHTML = list.map(p=>{
-    const imageURL = p.image ? "https://pinkblossom-attire.github.io/pinkblossomattire/" + p.image : "";
+   const imageURL = p.image ? "https://pinkblossom-attire.github.io/pinkblossomattire/" + p.image : "";
 const msg = soldOut
   ? "Hi! Is "+p.name+" back in stock yet?"
   : "Hi! I'd like to order *"+p.name+"* (₹"+p.price+").\n\nProduct photo: "+imageURL+"\n\nPlease confirm availability and delivery details.";
