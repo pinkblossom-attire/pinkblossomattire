@@ -268,10 +268,10 @@ function renderProducts(products){
     return;
   }
   document.getElementById('product-grid').innerHTML = list.map(p=>{
-    const soldOut = p.badge==='sold';
-    const msg = soldOut
-      ? "Hi! Is "+p.name+" back in stock yet?"
-      : "Hi! I'd like to order *"+p.name+"* (₹"+p.price+"). Please confirm availability and delivery details.";
+    const imageURL = p.image ? "https://pinkblossom-attire.github.io/pinkblossomattire/" + p.image : "";
+const msg = soldOut
+  ? "Hi! Is "+p.name+" back in stock yet?"
+  : "Hi! I'd like to order *"+p.name+"* (₹"+p.price+").\n\nProduct photo: "+imageURL+"\n\nPlease confirm availability and delivery details.";
     const imgHtml = p.image
       ? `<img src="${p.image}" alt="${p.name}" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='block'"><span class="fallback-emoji" style="display:none">${p.emoji||'👗'}</span>`
       : `<span class="fallback-emoji">${p.emoji||'👗'}</span>`;
