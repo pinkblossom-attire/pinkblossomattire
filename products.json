@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Floral Anarkali Suit",
+    "price": 1499,
+    "oldPrice": null,
+    "category": "Suits",
+    "desc": "Light chiffon with hand-block floral print",
+    "badge": "new",
+    "emoji": "👗",
+    "image": null
+  },
+  {
+    "id": 2,
+    "name": "Cotton Kurti Set",
+    "price": 899,
+    "oldPrice": 1199,
+    "category": "Kurtis",
+    "desc": "Pure cotton, comfortable daily wear",
+    "badge": "sale",
+    "emoji": "🧥",
+    "image": null
+  },
+  {
+    "id": 3,
+    "name": "Banarasi Silk Saree",
+    "price": 3200,
+    "oldPrice": null,
+    "category": "Sarees",
+    "desc": "Handwoven Banarasi with golden border",
+    "badge": "new",
+    "emoji": "🥻",
+    "image": null
+  },
+  {
+    "id": 4,
+    "name": "Palazzo Combo Set",
+    "price": 1100,
+    "oldPrice": null,
+    "category": "Co-ords",
+    "desc": "Relaxed fit, printed palazzo with crop top",
+    "badge": null,
+    "emoji": "👚",
+    "image": null
+  },
+  {
+    "id": 5,
+    "name": "Embroidered Dupatta",
+    "price": 599,
+    "oldPrice": 799,
+    "category": "Accessories",
+    "desc": "Thread embroidery on georgette base",
+    "badge": "sale",
+    "emoji": "🧣",
+    "image": null
+  },
+  {
+    "id": 6,
+    "name": "Ethnic Coord Set",
+    "price": 1850,
+    "oldPrice": null,
+    "category": "Co-ords",
+    "desc": "Festive-ready, mirror work detailing",
+    "badge": "new",
+    "emoji": "👘",
+    "image": null
+  }
+]
