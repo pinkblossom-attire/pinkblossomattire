@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "name": "Floral Anarkali Suit",
-    "price": 1499,
+    "name": "Kandha Cotton Coordset",
+    "price": 799,
     "oldPrice": null,
-    "category": "Suits",
+    "category": "Co-ords",
     "desc": "Light chiffon with hand-block floral print",
     "badge": "new",
     "emoji": "👗",
-    "image": null
+    "image": "kurti1.jpeg"
   },
   {
     "id": 2,
