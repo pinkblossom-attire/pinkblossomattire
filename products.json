@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Kandha Cotton Coordset",
+    "name": "Kandha Cotton Coordset - Purple",
     "price": 799,
     "oldPrice": null,
     "category": "Co-ords",
@@ -12,57 +12,68 @@
   },
   {
     "id": 2,
-    "name": "Cotton Kurti Set",
-    "price": 899,
-    "oldPrice": 1199,
-    "category": "Kurtis",
-    "desc": "Pure cotton, comfortable daily wear",
+    "name": "Kandha Cotton Coordset - Yellow",
+    "price": 799,
+    "oldPrice": null,
+    "category": "Co-ords",
+    "desc": "Light chiffon with hand-block floral print",
     "badge": "sale",
-    "emoji": "🧥",
-    "image": null
+    "emoji": "👗",
+    "image": "kurti2.jpeg"
   },
   {
     "id": 3,
-    "name": "Banarasi Silk Saree",
-    "price": 3200,
+    "name": "Dhabu Cotton Coordset BIBA",
+    "price": 799,
     "oldPrice": null,
-    "category": "Sarees",
-    "desc": "Handwoven Banarasi with golden border",
+    "category": "Co-ords",
+    "desc": "Light chiffon with hand-block floral print",
     "badge": "new",
-    "emoji": "🥻",
-    "image": null
+    "emoji": "👗",
+    "image": "kurti3.jpeg"
   },
   {
     "id": 4,
-    "name": "Palazzo Combo Set",
-    "price": 1100,
+    "name": "ALine Dhabu (Hi-neck) - red",
+    "price": 799,
     "oldPrice": null,
     "category": "Co-ords",
-    "desc": "Relaxed fit, printed palazzo with crop top",
+    "desc": "Light chiffon with hand-block floral print",
     "badge": null,
-    "emoji": "👚",
-    "image": null
+    "emoji": "👗",
+    "image": "kurti4.jpeg"
   },
   {
     "id": 5,
-    "name": "Embroidered Dupatta",
-    "price": 599,
-    "oldPrice": 799,
+    "name": "ALine Dhabu (Hi-neck) - black",
+    "price": 799,
+    "oldPrice": null,
     "category": "Accessories",
-    "desc": "Thread embroidery on georgette base",
+    "desc": "Light chiffon with hand-block floral print",
     "badge": "sale",
-    "emoji": "🧣",
-    "image": null
+    "emoji": "👗",
+    "image": "kurti5.jpeg"
   },
   {
     "id": 6,
-    "name": "Ethnic Coord Set",
-    "price": 1850,
+    "name": "Ajrajkh Prints Salwar - Pink",
+    "price": 980,
     "oldPrice": null,
-    "category": "Co-ords",
+    "category": "Salwar",
     "desc": "Festive-ready, mirror work detailing",
     "badge": "new",
     "emoji": "👘",
-    "image": null
+    "image": "kurti6.jpeg"
+  },
+   {
+    "id": 7,
+    "name": "Ajrajkh Prints Salwar - Blue",
+    "price": 980,
+    "oldPrice": null,
+    "category": "Salwar",
+    "desc": "Festive-ready, mirror work detailing",
+    "badge": "new",
+    "emoji": "👘",
+    "image": "kurti7.jpeg"
   }
 ]
