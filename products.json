@@ -8,7 +8,7 @@
     "desc": "Light chiffon with hand-block floral print",
     "badge": "new",
     "emoji": "👗",
-    "image": "kurti1.jpeg"
+    "image": "kurti1.jpeg" ,
     "sizes": ["S", "M", "L", "XL"]
   },
   {
@@ -20,7 +20,7 @@
     "desc": "Light chiffon with hand-block floral print",
     "badge": "sale",
     "emoji": "👗",
-    "image": "kurti2.jpeg"
+    "image": "kurti2.jpeg" ,
      "sizes": ["S", "M", "L", "XL"]
   },
   {
@@ -32,7 +32,8 @@
     "desc": "Light chiffon with hand-block floral print",
     "badge": "new",
     "emoji": "👗",
-    "image": "kurti3.jpeg"
+    "image": "kurti3.jpeg",
+    "sizes": ["S", "M", "L", "XL"]
   },
   {
     "id": 4,
@@ -43,7 +44,8 @@
     "desc": "Light chiffon with hand-block floral print",
     "badge": null,
     "emoji": "👗",
-    "image": "kurti4.jpeg"
+    "image": "kurti4.jpeg",
+    "sizes": ["S", "M", "L", "XL"]
   },
   {
     "id": 5,
@@ -54,7 +56,8 @@
     "desc": "Light chiffon with hand-block floral print",
     "badge": "sale",
     "emoji": "👗",
-    "image": "kurti5.jpeg"
+    "image": "kurti5.jpeg",
+    "sizes": ["S", "M", "L", "XL"]
   },
   {
     "id": 6,
@@ -65,7 +68,8 @@
     "desc": "Festive-ready, mirror work detailing",
     "badge": "new",
     "emoji": "👘",
-    "image": "kurti6.jpeg"
+    "image": "kurti6.jpeg",
+    "sizes": ["S", "M", "L", "XL"]
   },
    {
     "id": 7,
@@ -76,6 +80,7 @@
     "desc": "Festive-ready, mirror work detailing",
     "badge": "new",
     "emoji": "👘",
-    "image": "kurti7.jpeg"
+    "image": "kurti7.jpeg",
+    "sizes": ["S", "M", "L", "XL"]
   }
 ]
