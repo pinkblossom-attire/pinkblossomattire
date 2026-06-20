@@ -9,6 +9,7 @@
     "badge": "new",
     "emoji": "👗",
     "image": "kurti1.jpeg"
+    "sizes": ["S", "M", "L", "XL"]
   },
   {
     "id": 2,
@@ -20,6 +21,7 @@
     "badge": "sale",
     "emoji": "👗",
     "image": "kurti2.jpeg"
+     "sizes": ["S", "M", "L", "XL"]
   },
   {
     "id": 3,
