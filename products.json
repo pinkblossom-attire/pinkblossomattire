@@ -9,7 +9,7 @@
     "badge": "new",
     "emoji": "👗",
     "image": "kurti1.jpeg" ,
-    "sizes": ["S", "M", "L", "XL"]
+    "sizes": ["M", "L", "XL"]
   },
   {
     "id": 2,
@@ -73,6 +73,18 @@
   },
    {
     "id": 7,
+    "name": "Ajrajkh Prints Salwar - Blue",
+    "price": 980,
+    "oldPrice": null,
+    "category": "Salwar",
+    "desc": "Festive-ready, mirror work detailing",
+    "badge": "new",
+    "emoji": "👘",
+    "image": "kurti7.jpeg",
+    "sizes": ["S", "M", "L", "XL"]
+  },
+   {
+    "id": 8,
     "name": "Ajrajkh Prints Salwar - Blue",
     "price": 980,
     "oldPrice": null,
