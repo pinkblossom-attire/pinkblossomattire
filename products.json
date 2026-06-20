@@ -85,26 +85,14 @@
   },
    {
     "id": 8,
-    "name": "Ajrajkh Prints Salwar - Blue",
-    "price": 980,
-    "oldPrice": null,
-    "category": "Salwar",
-    "desc": "Festive-ready, mirror work detailing",
-    "badge": "new",
-    "emoji": "👘",
-    "image": "kurti7.jpeg",
-    "sizes": ["S", "M", "L", "XL"]
-  },
-  {
-    "id": 9,
-    "name": "Chetinadu cotton coordset - Parrot green",
-    "price": 799,
-    "oldPrice": null,
+    "name": "Chettinadu cotton coordset -  green",
+    "price": 749,
+    "oldPrice": 999 ,
     "category": "Co-ords",
     "desc": "Light chiffon with hand-block floral print",
     "badge": "new",
     "emoji": "👗",
-    "image": "kurti1.jpeg" ,
-    "sizes": ["M","L" ,"XL", "XXL"]
+    "image": "kurti8.jpeg" ,
+    "sizes": ["M","L","XXL"]
   }
 ]
