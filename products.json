@@ -94,5 +94,17 @@
     "emoji": "👗",
     "image": "kurti8.jpeg" ,
     "sizes": ["M","L","XXL"]
-  }
+  },
+   {
+    "id": 9,
+    "name": "Aline Vatican silk Coordset - Parrot Green",
+    "price": 750,
+    "oldPrice": null,
+    "category": "Co-ords",
+    "desc": "embroidery work coords",
+    "badge": "sale",
+    "emoji": "👗",
+    "image": "Aline vatican coords parrot green.jpeg" ,
+     "sizes": [ "M", "L"]
+  },
 ]
